@@ -30,5 +30,5 @@ City: Delhi
 Country: IN
 Temperature: 38.2 °C
 Weather: Clear
-Description: clear sky
+Description: clear sky 
 
