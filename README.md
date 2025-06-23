@@ -26,9 +26,15 @@ Overall, this program serves as a useful tool for beginners to understand how fi
 Enter city name: Delhi
 
 --- Weather Report ---
+
 City: Delhi
+
 Country: IN
+
 Temperature: 38.2 °C
+
 Weather: Clear
+
 Description: clear sky 
+
 
